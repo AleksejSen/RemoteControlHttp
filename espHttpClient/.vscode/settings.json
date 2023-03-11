@@ -12,5 +12,10 @@
     "idf.port": "/dev/cu.usbserial-0001",
     "idf.pythonBinPath": "/Users/alex/Downloads/esp-idf/python_env/idf4.4_py3.10_env/bin/python",
     "idf.toolsPath": "/Users/alex/Downloads/esp-idf",
-    "idf.flashType": "UART"
+    "idf.flashType": "UART",
+    "files.associations": {
+        "httpclient.h": "c",
+        "gpio.h": "c",
+        "wifistation.h": "c"
+    }
 }
